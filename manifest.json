@@ -1,0 +1,7 @@
+{
+  "id": "pr-lens",
+  "name": "PR Lens",
+  "version": "0.1.0",
+  "access": "full",
+  "description": "Asks agents to draw a code change they made with PR Lens (@coldtea/pr-lens-cli, MIT): one SVG of what changed (new, changed and removed parts), drawn on this Mac and shown in the thread under their summary. The PR body and the ticket keep Mermaid. The code never leaves the Mac: no analyze, canvas or GitHub App."
+}
